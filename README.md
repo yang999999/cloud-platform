@@ -5,7 +5,7 @@
 首先将仓库下载
 
 ```bash
-git clone https://gitee.com/confucianzuoyuan/yuntai.git
+git clone https://github.com/yang999999/cloud-platform.git
 ```
 
 然后启动后端项目，使用`Intellij Idea`将`yuntai-backend`作为`Maven`项目打开，也就是打开`pom.xml`文件。
